@@ -139,7 +139,7 @@ const Hero = () => {
           </div>
 
           {/* Main Text: Hafeez Qureshi */}
-          <h1 className="text-6xl md:text-8xl lg:text-[10rem] leading-none text-[var(--text-main)] drop-shadow-lg tracking-tight pt-[11px] font-milkstore">
+          <h1 className="text-6xl md:text-8xl lg:text-[10rem] leading-none text-[var(--text-main)] drop-shadow-lg tracking-tight pt-[11px] font-aguafina">
             Hafeez <span className="text-gradient inline-block pt-[41px] pb-[50px] pr-[39px]">Qureshi</span>
           </h1>
 

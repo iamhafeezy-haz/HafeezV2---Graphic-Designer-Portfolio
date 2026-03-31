@@ -1,29 +1,12 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&family=Montserrat:wght@700;800;900&family=Michroma&family=Dancing+Script:wght@700&family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&family=Montserrat:wght@700;800;900&family=Michroma&family=Dancing+Script:wght@700&family=Bebas+Neue&family=Aguafina+Script&display=swap');
 @import "tailwindcss"; 
-
-@font-face {
-  font-family: 'Milkstore01-Clean';
-  src: url('./fonts/msc01.otf') format('opentype');
-  font-weight: normal;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'msc';
-  src: url('./fonts/msc01.otf') format('opentype');
-  font-weight: normal;
-  font-style: normal;
-  font-display: swap;
-}
 
 @theme {
   --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
   --font-display: "Montserrat", sans-serif;
   --font-scifi: "Michroma", sans-serif;
   --font-script: "Dancing Script", cursive;
-  --font-milkstore: "Milkstore01-Clean", "msc", "Bebas Neue", sans-serif;
-  --font-msc: "msc", "Milkstore01-Clean", "Bebas Neue", sans-serif;
+  --font-aguafina: "Aguafina Script", cursive;
 
   --color-brand-black: #0D0D0D;
   --color-brand-red: #E50914;
