@@ -3,7 +3,7 @@
 
 @font-face {
   font-family: 'Milkstore01-Clean';
-  src: url('/fonts/msc01.otf') format('opentype');
+  src: url('./fonts/msc01.otf') format('opentype');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -11,7 +11,7 @@
 
 @font-face {
   font-family: 'msc';
-  src: url('/fonts/msc01.otf') format('opentype');
+  src: url('./fonts/msc01.otf') format('opentype');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
