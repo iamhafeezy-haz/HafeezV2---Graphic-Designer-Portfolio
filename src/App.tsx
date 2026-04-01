@@ -299,7 +299,7 @@ const Projects = () => {
         'https://i.ibb.co/zh3m5k4D/2.jpg',
         'https://i.ibb.co/jZk7zZvC/3.jpg',
         'https://i.ibb.co/ychWrc8r/4.jpg',
-        'https://i.ibb.co/WWkzCNFV/5.jpg',
+        'https://i.ibb.co/ynCgYrtc/5.jpg',
         'https://i.ibb.co/RGzBJmh2/6.jpg'
       ],
       tools: ['Illustrator', 'Photoshop'],
